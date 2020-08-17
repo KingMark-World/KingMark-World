@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ... Getting myself more healthy - concidering to go plant base!
+- 🔭 I’m currently working on ... Getting myself more healthy - considering to go plant base!
 - 🌱 I’m currently learning ...JavaScript & CSS
 - 👯 I’m looking to collaborate on ...React Js/podcast/clothing line
 - 🤔 I’m looking for help with ... Houdini SideFX/3D aminmation/React
