@@ -1,7 +1,7 @@
 ### Hi I'm KingMark-World 
 
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... Getting myself more healty - concidering to go plant base!
 - 🌱 I’m currently learning ...JavaScript & CSS
 - 👯 I’m looking to collaborate on ...React Js
 - 🤔 I’m looking for help with ... Houdini SideFX
