@@ -1,10 +1,12 @@
 ### Hi I'm KingMark-World 
 
 
+
+
 - 🔭 I’m currently working on ... Getting myself more healty - concidering to go plant base!
 - 🌱 I’m currently learning ...JavaScript & CSS
-- 👯 I’m looking to collaborate on ...React Js
-- 🤔 I’m looking for help with ... Houdini SideFX
+- 👯 I’m looking to collaborate on ...React Js/podcast/clothing line
+- 🤔 I’m looking for help with ... Houdini SideFX/3D aminmation/React
 - 💬 Ask me about ... Anything!!!
 - 📫 How to reach me: ... m16kirton@gmail.com  
 - 😄 Pronouns: ... He/Him
